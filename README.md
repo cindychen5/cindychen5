@@ -1,6 +1,7 @@
-<h1 align="center">Hi there! My Name is Cindy Chen <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px"></h1>
+# Hi There! My name is Cindy Chen <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
 
 ## I am a software engineer, pharmacist, and lover of the outdoors.
+
 
 - :mortar_board: I graduated from Deep Dive Coding's full stack web development bootcamp
 - :file_folder: I’m currently working on building a portfolio
