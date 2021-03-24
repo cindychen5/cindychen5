@@ -1,4 +1,4 @@
-# Hi There! My name is Cindy Chen <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
+# Hi there! My name is Cindy Chen <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
 
 ## I am a software engineer, pharmacist, and lover of the outdoors.
 
